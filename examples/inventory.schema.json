@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "fields": [
+    {"name": "item_id", "type": "sequence", "start": 1000, "step": 1},
+    {"name": "category", "type": "choice", "values": ["bolt", "nut", "washer"]},
+    {"name": "quantity", "type": "integer", "min": 0, "max": 500},
+    {"name": "active", "type": "boolean"},
+    {"name": "received_on", "type": "date", "start": "2026-01-01", "end": "2026-12-31"}
+  ]
+}

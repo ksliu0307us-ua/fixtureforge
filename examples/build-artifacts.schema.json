@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "fields": [
+    {"name": "artifact_id", "type": "sequence", "start": 5000, "step": 10},
+    {"name": "file_name", "type": "choice", "values": ["core.zip", "symbols,debug.zip", "資料.tar"]},
+    {"name": "size_bytes", "type": "integer", "min": 100, "max": 10000},
+    {"name": "verified", "type": "boolean"},
+    {"name": "built_on", "type": "date", "start": "2026-10-01", "end": "2026-10-31"}
+  ]
+}

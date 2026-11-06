@@ -1,0 +1,7 @@
+[
+  {"item_id": 1000,"category": "washer","quantity": 57,"active": false,"received_on": "2026-05-21"},
+  {"item_id": 1001,"category": "bolt","quantity": 114,"active": false,"received_on": "2026-02-22"},
+  {"item_id": 1002,"category": "washer","quantity": 379,"active": true,"received_on": "2026-10-07"},
+  {"item_id": 1003,"category": "bolt","quantity": 302,"active": false,"received_on": "2026-01-17"},
+  {"item_id": 1004,"category": "bolt","quantity": 47,"active": false,"received_on": "2026-04-30"}
+]

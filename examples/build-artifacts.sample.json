@@ -1,0 +1,7 @@
+[
+  {"artifact_id": 5000,"file_name": "資料.tar","size_bytes": 1924,"verified": false,"built_on": "2026-10-24"},
+  {"artifact_id": 5010,"file_name": "symbols,debug.zip","size_bytes": 4112,"verified": false,"built_on": "2026-10-05"},
+  {"artifact_id": 5020,"file_name": "資料.tar","size_bytes": 1779,"verified": true,"built_on": "2026-10-24"},
+  {"artifact_id": 5030,"file_name": "資料.tar","size_bytes": 1524,"verified": true,"built_on": "2026-10-14"},
+  {"artifact_id": 5040,"file_name": "core.zip","size_bytes": 588,"verified": false,"built_on": "2026-10-07"}
+]

@@ -1,0 +1,6 @@
+item_id,category,quantity,active,received_on
+1000,washer,57,false,2026-05-21
+1001,bolt,114,false,2026-02-22
+1002,washer,379,true,2026-10-07
+1003,bolt,302,false,2026-01-17
+1004,bolt,47,false,2026-04-30
