@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fixtureforge"
+version = "0.1.0"
+description = "Deterministic JSON and CSV fixtures for application tests and demos"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+authors = [{ name = "ksliu0307us-ua", email = "ksliu0307.us@gmail.com" }]
+dependencies = []
+
+[project.scripts]
+fixtureforge = "fixtureforge.cli:main"
+
+[tool.setuptools]
+packages = ["fixtureforge"]
